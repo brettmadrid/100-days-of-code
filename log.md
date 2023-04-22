@@ -2,9 +2,9 @@
 
 ### Day 0: April 22, 2023 Saturday
 
-**Today's Progress**: Started doing code challenges after 2 years of not doing any. Completed isAnagram code challenge with O(n). Working on React project.
+**Today's Progress**: Completed isAnagram code challenge with O(n). Working on React project.
 
-**Thoughts:** Seems like too much to learn to get a job, but persistence pays off I hope.
+**Thoughts:** So much to learn!
 
 **Link to work:** [Game Hub](https://github.com/brettmadrid/game-hub)
 
