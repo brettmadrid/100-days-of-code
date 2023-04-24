@@ -8,13 +8,10 @@
 
 **Link to work:** [Game Hub](https://github.com/brettmadrid/game-hub)
 
-### Day 1: June 23, Sunday
+### Day 1: April 23, Sunday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I've completed selection sort.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Frustrated by not being able to solve these problems intuitively.
 
-**Link(s) to work**
-
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work** [Algorithms in Javascript](https://github.com/brettmadrid/algorithms-in-javascript)
